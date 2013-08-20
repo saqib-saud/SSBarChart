@@ -1,10 +1,4 @@
-//
-//  AppDelegate.m
-//  SSBarGraphDemo
-//
-//  Created by Saqib on 8/20/13.
-//
-//
+
 
 #import "AppDelegate.h"
 
